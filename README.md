@@ -1,2 +1,2 @@
 # Small_project
-# small project to study
+small project to study
